@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = albert.goody@gmail.com
+	name = Albert Goody
